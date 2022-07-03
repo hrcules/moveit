@@ -1,9 +1,7 @@
-<img src="moveit-banner.png">
+<img src="public/moveit-banner.png">
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hrcules/teste?color=4953B8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hrcules/teste">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hrcules/moveit?color=4953B8">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
