@@ -1,0 +1,43 @@
+.container {
+  height: 100vh;
+  display: flex;
+  background: var(--blue);
+  background-image: url("/icons/background-logo.svg");
+  background-position: left center;
+  background-size: 40%;
+  background-repeat: no-repeat;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 22rem;
+}
+
+.itensContainer > img {
+  width: 360px;
+  margin-bottom: 5.6rem;
+}
+
+.itensContainer h1 {
+  font-size: 2.8rem;
+  color: var(--white);
+  margin: 0.25rem 0;
+}
+
+.loginText {
+  display: flex;
+  color: var(--white);
+  align-items: center;
+  padding: 20px 0;
+}
+
+.loginText > img {
+  width: 30px;
+  max-width: 500px;
+  margin-right: 1.25rem;
+}
+
+.loginText > div {
+  flex-direction: column;
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: #c3c9ff;
+}
