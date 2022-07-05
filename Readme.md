@@ -58,5 +58,5 @@ $ yarn dev
 
 Este projeto esta sobe a licença MIT.
 
-![ Emblema do Linkedin ](https://img.shields.io/badge/-hrcules-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/hércules-filho-5259b3238/)
+![ Emblema do Linkedin ](https://img.shields.io/badge/-hrcules-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrcules/)
 ![ Selo do Gmail ](https://img.shields.io/badge/-dev.hrcules@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.hrcules@gmail.com)
